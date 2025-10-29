@@ -1,0 +1,4 @@
+#this file use to ignore files or folder that we not upload on github
+
+node_modules
+.env
