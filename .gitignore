@@ -1,4 +1,5 @@
-#this file use to ignore files or folder that we not upload on github
+# this file use for folder not upload on github
+#github ignore this files and folder not upload it
 
 node_modules
 .env
