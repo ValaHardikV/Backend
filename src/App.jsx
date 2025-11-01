@@ -29,6 +29,8 @@ function App() {
             <p>{jokes.content}</p>
             <p>{jokes.content}</p>
             <p>{jokes.content}</p>
+            <p>{jokes.content}</p>
+            <p>{jokes.content}</p>
           </div>
         ))
       }
