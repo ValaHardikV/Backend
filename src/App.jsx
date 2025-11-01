@@ -27,6 +27,8 @@ function App() {
           <div key = {jokes.id}>
             <h3>{jokes.title}</h3>
             <p>{jokes.content}</p>
+            <p>{jokes.content}</p>
+            <p>{jokes.content}</p>
           </div>
         ))
       }
