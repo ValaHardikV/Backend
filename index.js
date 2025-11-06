@@ -57,6 +57,10 @@ const githubdata = {
   "company": null,
   "blog": "https://hitesh.ai",
   "location": "India",
+
+
+
+  
   "email": null,
   "hireable": null,
   "bio": "I make coding videos on youtube and for courses. My youtube channel explains my work more. Check that out",
